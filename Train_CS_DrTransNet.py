@@ -23,7 +23,7 @@ parser.add_argument('--cs_ratio', type=int, default=10, help='from {1, 4, 10, 25
 parser.add_argument('--gpu_list', type=str, default='0', help='gpu index')
 
 parser.add_argument('--model_dir', type=str, default='model', help='trained or pre-trained model directory')
-parser.add_argument('--train_data', default='/media/sym/Study/Bi_Ye/Transform/SW_CS/WED4744', type=str, help='path of train data')
+parser.add_argument('--train_data', default='./data/WED4744', type=str, help='path of train data')
 # parser.add_argument('--data_dir', type=str, default='data', help='training data directory')
 parser.add_argument('--log_dir', type=str, default='log', help='log directory')
 parser.add_argument('--save_interval', type=int, default=1, help='interval of saving model')
