@@ -18,4 +18,4 @@ Compressed sensing (CS) with the binary sampling matrix is hardware-friendly and
 --------------------------------------------------------------------
 Acknowledgments
 
-This code is implemented via PyTorch with a NVIDIA RTX 2080Ti GPU and Intel i7-9700F CPU @ 3.00GHz； this work is based on some related source codes, including the OPINE-Net contributed by Jian Zhang et al, the Uformer contributed by Zhendong Wang et al, and so on. We gratefully acknowledge the authors for sharing their source codes.
+This code is implemented via PyTorch with a NVIDIA RTX 2080Ti GPU and Intel i7-9700F CPU @ 3.00GHz； this work is based on some related source codes, including the OPINE-Net contributed by Jian Zhang et al, the Uformer contributed by Zhendong Wang et al, the Swin Transformer contributed by Ze Liu et al, and so on. We gratefully acknowledge the authors for sharing their source codes.
